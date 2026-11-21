@@ -104,6 +104,16 @@ Ao desbloquear:
 
 No modo VALENDO, a pontuação volta para 10 após a abertura.
 
+<img width="4284" height="5712" alt="IMG_3796" src="https://github.com/user-attachments/assets/57c031f4-1dd2-4b47-ba6f-96fe15b192c7" />
+
+<img width="3024" height="4032" alt="IMG_3795" src="https://github.com/user-attachments/assets/85373ef8-0792-4552-84f8-4f1e38fb04fb" />
+
+<img width="3024" height="4032" alt="IMG_3797" src="https://github.com/user-attachments/assets/f859fff3-90a6-469e-a904-c9df4c4d1138" />
+
+<img width="4284" height="5712" alt="IMG_3793" src="https://github.com/user-attachments/assets/2522d5bc-3cdf-492a-8a93-b64f3c46125f" />
+
+
+
 ---
 
 **Desenvolvido por LC Sistemas**
