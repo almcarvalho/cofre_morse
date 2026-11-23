@@ -11,7 +11,7 @@ Um cofre eletrônico interativo que utiliza Código Morse para desafios, treinam
 - 1 Buzzer passivo
 - 1 Módulo relé 5V
 - 2 Botões (vermelho e verde)
-- 2 Packs de pilhas de 9800 mAh
+- 2 baterias lithium 26650 (4.2v cada)
 - 1 Conector P4 macho
 - 1 Interruptor de alavanca (liga/desliga)
 - Jumpers e fios para conexões
